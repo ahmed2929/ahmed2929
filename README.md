@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ahmed khaled
-- 👀 I’m interested in software engineering
+- 👀 I’m interested in software development
 - 🌱 I’m currently working as a fullstack developer
 - 💞️ I’m looking to collaborate on any helpfull projects
 - 📫 How to reach me https://www.ahmed-tech.me/
